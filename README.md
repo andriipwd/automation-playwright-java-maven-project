@@ -1,4 +1,4 @@
-# Charity E2E Tests
+# Automation E2E test
 
 End-to-end browser tests for [Sauce Demo](https://www.saucedemo.com/), written
 in Java with Playwright, TestNG, and Maven.
